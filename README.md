@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @89SH
 - 👀 I’m interested in all language of computer 
-- 🌱 I’m currently learning in diploma computer
+- 🌱 I’m currently learning c languages 
 - 💞️ I’m looking to collaborate with company 
 - 📫 How to reach me to that place
 - 😄 Pronouns: ...
